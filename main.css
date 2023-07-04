@@ -1,0 +1,270 @@
+.section1 {
+  background-image: url(./parallax1.jpg);
+  height: 500px;
+  background-size: cover;
+}
+.section1 .menu {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+}
+.section1 .menu ul {
+  justify-content: space-around;
+  display: flex;
+  list-style: none;
+}
+.section1 .menu ul li {
+  margin-left: 50px;
+}
+.section1 .sen {
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+  border: 1px solid black;
+  color: white;
+  background-color: black;
+  margin-left: 600px;
+}
+
+.section2 {
+  display: flex;
+  justify-content: center;
+}
+.section2 .sid {
+  width: 800px;
+}
+.section2 .sid h1 {
+  display: flex;
+  justify-content: center;
+}
+.section2 .sid h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.section3 .seven {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+.section3 .seven .text {
+  width: 440px;
+}
+.section3 h2 {
+  margin-left: 600px;
+}
+
+.section4 {
+  margin-top: 100px;
+  margin-left: 200px;
+}
+.section4 .foto .all1 {
+  display: flex;
+}
+.section4 .foto .all1 .sed1 {
+  background-color: rgb(73, 69, 69);
+  border: 1px solid rgb(73, 69, 69);
+  width: 50%;
+  height: 50px;
+  color: white;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section4 .foto .all1 .sec2 {
+  background-color: rgb(141, 140, 140);
+  border: 1px solid rgb(142, 141, 141);
+  width: 10%;
+  height: 50px;
+  color: white;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section4 .notbuk .all2 {
+  display: flex;
+}
+.section4 .notbuk .all2 .vel {
+  background-color: rgb(73, 69, 69);
+  border: 1px solid rgb(73, 69, 69);
+  width: 40%;
+  height: 50px;
+  color: white;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section4 .notbuk .all2 .new {
+  background-color: rgb(141, 140, 140);
+  border: 1px solid rgb(142, 141, 141);
+  width: 20%;
+  height: 50px;
+  color: white;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section4 .imeg .all3 {
+  display: flex;
+}
+.section4 .imeg .all3 .wid1 {
+  background-color: rgb(73, 69, 69);
+  border: 1px solid rgb(73, 69, 69);
+  width: 35%;
+  height: 50px;
+  color: white;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section4 .imeg .all3 .wid2 {
+  background-color: rgb(141, 140, 140);
+  border: 1px solid rgb(142, 141, 141);
+  width: 25%;
+  height: 50px;
+  color: white;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section5 {
+  background-color: grey;
+  display: flex;
+  justify-content: space-around;
+}
+
+.section6 {
+  background-image: url(./parallax2.jpg);
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section7 h3 {
+  display: flex;
+  justify-content: center;
+}
+.section7 p {
+  display: flex;
+  justify-content: center;
+}
+
+.section8 {
+  display: flex;
+  justify-content: space-around;
+}
+.section8 img {
+  width: 300px;
+  height: 200px;
+}
+
+.section9 {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+.section9 img {
+  width: 300px;
+  height: 200px;
+}
+
+.section10 {
+  margin-left: 500px;
+  margin-top: 50px;
+  width: 300px;
+  height: 70px;
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section10:hover {
+  background-color: rgb(62, 59, 59);
+}
+
+.section11 {
+  margin-left: 100px;
+  margin-top: 50px;
+  background-image: url(./parallax3.jpg);
+  background-repeat: no-repeat;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section12 h2 {
+  display: flex;
+  justify-content: center;
+}
+.section12 h3 {
+  display: flex;
+  justify-content: center;
+}
+
+.section13 {
+  display: flex;
+  justify-content: space-around;
+}
+.section13 .cent img {
+  width: 400px;
+  height: 250px;
+}
+.section13 .snup {
+  width: 800px;
+}
+
+.section14 form {
+  margin-left: 500px;
+}
+.section14 form .were {
+  height: 30px;
+  width: 300px;
+}
+.section14 form .git {
+  margin-top: 5px;
+  height: 30px;
+  width: 600px;
+}
+
+.qwer {
+  background-color: black;
+  width: 200px;
+  height: 40px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 900px;
+  margin-top: 50px;
+}
+
+.qwer:hover {
+  background-color: grey;
+  color: black;
+}
+
+.section15 {
+  margin-top: 50px;
+  height: 300px;
+  background-color: black;
+  color: white;
+}
+.section15 .id {
+  display: flex;
+}
+.section15 .seb {
+  margin-left: 600px;
+  display: flex;
+}/*# sourceMappingURL=main.css.map */
